@@ -1,0 +1,3 @@
+import{j as d}from"./iframe-Do8azCA_.js";import{w as m}from"./withCartesian-BTpMs1qc.js";import{C as p}from"./constants-DdkjnEgz.js";import{c as n}from"./createStoryParameters-CcwS40kl.js";import{S as s}from"./Subhead-jLvRLs1j.js";const y={title:"Typography/Typography/Subhead",component:s,parameters:n("Subhead",p),decorators:[m]},r={render:t=>d.jsx(s,{...t,children:"Subhead"})};var a,e,o;r.parameters={...r.parameters,docs:{...(a=r.parameters)==null?void 0:a.docs,source:{originalSource:`{
+  render: args => <Subhead {...args}>Subhead</Subhead>
+}`,...(o=(e=r.parameters)==null?void 0:e.docs)==null?void 0:o.source}}};const l=["Playground"];export{r as Playground,l as __namedExportsOrder,y as default};
